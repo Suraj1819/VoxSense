@@ -764,7 +764,7 @@ VoxSense by • Neural Hashira • © 2026
             <p style="font-size:1.2rem;color:#e0e0f0;font-weight:600;margin-bottom:0.5rem">No audio uploaded yet</p>
             <p style="font-size:0.95rem;color:#707088;font-weight:400">
                 Upload a WAV file to analyze any animal's vocalization emotion<br>
-                <span style="font-size:0.8rem;color:#555568">Supports dogs, cats, birds, cattle, and more</span>
+                <span style="font-size:0.8rem;color:#555568">Supports dogs, cats</span>
             </p>
         </div>
         """, unsafe_allow_html=True)
