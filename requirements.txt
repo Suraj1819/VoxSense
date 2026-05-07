@@ -10,3 +10,4 @@ plotly
 opencv-python-headless
 joblib
 torch
+torchvision
