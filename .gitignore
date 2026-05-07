@@ -11,10 +11,6 @@ bin/
 __pycache__/
 *.pyc
 
-# ML model files
-*.pth
-*.pt
-*.h5
 
 # Jupyter
 .ipynb_checkpoints/

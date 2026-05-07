@@ -740,7 +740,7 @@ Model Metrics:
   Recall    = {format_val(metrics.get('recall'),'{:.3f}')}
 
 {'='*50}
-VoxSense by Neural Hashira • Suraj Kumar • © 2024
+VoxSense by • Neural Hashira • © 2026
 """
                 st.download_button(
                     "⬇ Download Report",
