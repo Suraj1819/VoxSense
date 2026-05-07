@@ -142,4 +142,4 @@ streamlit run app/app.py
 ---
 
 ## 📜 License
-MIT License © 2025 VOXSENSE Team
+MIT License © 2026 VOXSENSE Team (NEURAL HASHIRA TEAM)
