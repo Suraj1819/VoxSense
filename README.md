@@ -115,11 +115,9 @@ streamlit run app/app.py
 
 | Animal | Emotions |
 |--------|----------|
-| 🐕 Dog | Angry, Happy, Normal, Fear, Sad |
-| 🐈 Cat | Angry, Happy, Normal, Fear, Sad |
-| 🐦 Bird | Angry, Happy, Normal, Fear, Sad |
-| 🦁 Lion | Angry, Normal, Fear |
-| 🐺 Wolf | Angry, Happy, Normal |
+| 🐕 Dog | Angry, Happy, Normal |
+| 🐈 Cat | Angry, Happy, Normal |
+
 
 ---
 
