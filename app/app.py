@@ -772,7 +772,7 @@ VoxSense by • Neural Hashira • © 2026
     # Footer
     st.markdown("""
     <div class="footer">
-        Neural Hashira • Suraj Kumar • © 2024
+       • Neural Hashira • © 2024
     </div>
     """, unsafe_allow_html=True)
 
