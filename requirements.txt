@@ -9,3 +9,4 @@ scipy
 plotly
 opencv-python-headless
 joblib
+torch==2.2.2
