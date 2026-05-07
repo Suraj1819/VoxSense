@@ -11,3 +11,4 @@ opencv-python-headless
 joblib
 torch
 torchvision
+tqdm
