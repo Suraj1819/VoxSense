@@ -1,0 +1,26 @@
+{
+  "class_to_idx": {
+    "dog_angry": 0,
+    "dog_happy": 1,
+    "dog_normal": 2,
+    "cat_angry": 3,
+    "cat_happy": 4,
+    "cat_normal": 5
+  },
+  "idx_to_class": {
+    "0": "dog_angry",
+    "1": "dog_happy",
+    "2": "dog_normal",
+    "3": "cat_angry",
+    "4": "cat_happy",
+    "5": "cat_normal"
+  },
+  "classes": [
+    "dog_angry",
+    "dog_happy",
+    "dog_normal",
+    "cat_angry",
+    "cat_happy",
+    "cat_normal"
+  ]
+}

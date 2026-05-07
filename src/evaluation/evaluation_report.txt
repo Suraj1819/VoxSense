@@ -1,0 +1,14 @@
+VoxSense - Evaluation Report
+================================
+Date: 2026-05-02 09:29
+
+Model Performance:
+------------------
+Accuracy  : 0.6667 (66.67%)
+Precision : 0.5000
+Recall    : 0.6667
+F1-Score  : 0.5556
+
+Classes: ['dog_angry', 'dog_happy', 'dog_normal', 'elevenlabs_big']
+
+Note: Graph saved in src/evaluation/ folder

@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML model files
+*.pth
+*.pt
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Dataset folders
+data/
+datasets/
+
+# System files
+.DS_Store
