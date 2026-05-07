@@ -12,3 +12,5 @@ joblib
 torch
 torchvision
 tqdm
+seaborn
+Pillow
