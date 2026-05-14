@@ -19,7 +19,9 @@ __pycache__/
 # VS Code
 .vscode/
 
-
+# Dataset folders
+data/
+datasets/
 
 # System files
 .DS_Store
