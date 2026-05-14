@@ -1,0 +1,21 @@
+VOXSENSE - FEATURE EXTRACTION STATISTICS
+========================================
+
+Total samples: 66
+Feature dimensions: 16384
+
+Data Sources:
+  original_dog: 3
+  original_cat: 17
+  augmented_dog: 12
+  augmented_cat: 34
+  spectrogram_dog: 3
+  spectrogram_cat: 17
+  spectrogram_aug_dog: 12
+  spectrogram_aug_cat: 34
+
+Class Distribution:
+  cat_normal: 51
+  dog_angry: 5
+  dog_happy: 5
+  dog_normal: 5
